@@ -3,8 +3,13 @@
 
 <img src="img/conan.gif" width="250">
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/abcabcp?pet-id=723469929476111381&contribution-view=false" width="1000" height="120" />
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/724820822154906486/draw"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
 </a>
 
 </div>
